@@ -37,7 +37,7 @@ We can see that after n = 5, WCSS actually started to decrease frequently.
 - Finally, we count the crossing points.
 - For example. we see from 248 - 101 we are getting longest verticle line.
 - Hence, we draw a horizontal line within this range.
-- That horizontal line will cut 5 verticle lines giving use 5 cluster points.
+- That horizontal line will cut 5 verticle lines giving us 5 cluster points.
     
 **Author**
 ------
